@@ -2,5 +2,5 @@ streamlit
 opencv-python
 numpy
 scikit-learn
-tensorflow
+tensorflow==2.18.0
 pillow
